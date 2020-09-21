@@ -1,0 +1,15 @@
+{
+  "name": "pwa102",
+  "version": "1.0.1",
+  "description": "simple pwa project for Inixindo",
+  "main": "server.js",
+  "scripts": {
+    "server-debug": "nodemon --inspect server.js"
+  },
+  "author": "RZ",
+  "license": "INIX",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
